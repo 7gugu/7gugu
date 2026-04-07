@@ -10,13 +10,13 @@
 
 ## About Me
 
-I'm a long-time PHP developer based in Shenzhen, China, with a strong focus on building practical developer tools, especially around network proxy, debugging infrastructure, and AI-assisted workflows.
+I'm a long-time React + Typescript developer based in Shenzhen, China, with a strong focus on building practical developer tools, especially around network proxy, debugging infrastructure, and AI-assisted workflows.
 
 Since joining GitHub in 2014, I have maintained a builder-first approach—focusing on creating and shipping functional projects rather than broad open-source collaboration. My work centers on PHP backend systems, modern TypeScript tooling, and innovative integrations between AI agents and local development environments.
 
 **Recent activity (last 90 days):** 5 active days across 7 public repositories, primarily using TypeScript, HTML, PHP, and JavaScript. Current interests include MCP (Model Context Protocol), proxy tools, barcode/qrcode solutions, and visual labeling systems.
 
-> 我是一名长期从事 PHP 开发的开发者，位于中国广东深圳。专注于构建实用的开发者工具，特别是网络代理、调试基础设施以及 AI 辅助工作流。
+> 我是一名长期从事 React + Typescript 开发的开发者，位于中国广东深圳。专注于构建实用的开发者工具，特别是网络代理、调试基础设施以及 AI 辅助工作流。
 > 
 > 自 2014 年加入 GitHub 以来，我一直以构建者模式为主，专注于创建和交付功能性项目。目前的工作重点包括 PHP 后端系统、现代 TypeScript 工具，以及 AI 代理与本地开发环境的创新集成。
 > 
