@@ -1,6 +1,6 @@
 # 7gugu
 
-**PHP 开发者 | 专注网络代理与 AI 工具链 | Shenzhen, Guangdong, China**
+**React + TypeScript 开发者 | 专注网络代理与 AI 工具链 | Shenzhen, Guangdong, China**
 
 <div align="center">
   <a href="https://www.7gugu.com" target="_blank"><img src="https://img.shields.io/badge/Blog-7gugu.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
